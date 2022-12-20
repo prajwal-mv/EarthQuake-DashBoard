@@ -1,0 +1,2 @@
+# EarthQuake-DashBoard
+Power BI 
